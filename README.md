@@ -1,6 +1,16 @@
-#TEMP
-A temp repo for testing web-hooks.
+# temp
 
 
 
------
+## Run
+    npm install
+    npm start
+
+
+## Tests
+
+    npm test
+
+
+---
+### License: MIT
